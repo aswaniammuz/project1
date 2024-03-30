@@ -1,0 +1,667 @@
+.sec1{
+    background-image: url(meat\ grass.jpeg);
+    background-repeat: no-repeat;
+    min-height: 700px;
+    background-size: cover;
+    
+}
+.inbox1{
+    /* background-color: black; */
+    text-align: center;
+  
+}
+.BRisky{
+    color: aliceblue;
+    text-align: center;
+    /* margin-top: 300px; */
+    font-size: 80px;
+    text-shadow: 0px 0px 10px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.p1{
+    color: aliceblue;
+    text-align: center;
+    font-size:20px ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    /* margin-bottom: 300px; */
+    text-shadow: 0px 0px 12px black;
+}
+.cart{
+    color: aliceblue;
+    font-size: 60px;
+    margin-top: 100px;
+    display: inline-block;
+    
+}
+.menu{
+    background-color:darkgoldenrod;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px;
+    
+}
+.bantext{
+    margin-top: 50px;
+}
+.sec2{
+    background-color:rgba(0, 0, 0, 0.778);
+    height: 200px;
+}
+.inbox2{
+    /* background-color:grey; */
+    height: 200px;
+    margin-top: 25px;
+
+}
+
+.p2{
+    color: white;
+    text-align: center;
+
+    font-size: 20px;
+    font-family:Javanese Text ;
+  
+   
+}
+
+.bantext2{
+    margin-top: 50px;
+}
+.con{
+    background-color: rgba(0, 0, 0, 0.842);
+    margin-top: 61px;
+}
+
+.line1{
+    background-color: orangered;
+    height: 1px;
+    width: 75%;
+    margin-top: 15px;
+}
+
+.line2{
+    background-color: orangered;
+    height: 1px;
+    width: 50%;
+    margin-top: 15px;
+}
+.line3{
+    background-color: orangered;
+    height: 1px;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 15px;
+
+}
+.line4{
+    background-color: orangered;
+    height: 1px;
+    max-width: 75%;
+    margin-top: 15px;
+    
+}
+.sec3{
+    background-image: url(restaurantcopy.jpeg);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inbox3{
+    /* background-color: black; */
+    height: 500px;
+    text-align: center;
+}
+.local{
+    color: aliceblue;
+ 
+    font-family: Engravers MT;
+    font-size: 50px;
+    text-shadow: 0px 0px 10px black;
+    font-weight: bold;
+    margin-top: 100px;
+    display: inline-block;
+}
+.line5{
+    background-color:aliceblue ;
+    height: 2px;
+    max-width: 35%;
+    margin: auto;
+}
+.p3{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-family:Javanese Text ;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 30px;
+  
+   
+}
+.find{
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px;
+    margin-top: 50px;
+    display: inline-block;
+    
+   
+    
+}
+.bantext3{
+    margin-top: 50px;
+}
+.star{
+    color: aliceblue;
+    font-size: 20px;
+    display: inline-block;
+    margin: -10px 10px 0px 10px;
+}
+
+.sec4{
+    background-image: url(pexels-vidal-balielo-jr-4007053.jpg);
+    min-height: 462px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.inbox4{
+    /* background-color: black; */
+    height: 175px;
+    text-align: center;
+}
+.circle{
+    color: aliceblue;
+    font-size: 80px;
+    margin-top: 44px;
+    display: inline-block ;
+
+}
+.catering{
+    color: aliceblue;
+    text-align: center;
+    /* margin-top: 300px; */
+    font-size: 80px;
+    text-shadow: 0px 0px 10px black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+.p4{
+    color:aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-family:Javanese Text ;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 10px;
+  
+   
+}
+.view{
+    background-color:darkgoldenrod;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px;
+    margin-top: 17px;
+    display: inline-block;
+}
+.sec5{
+    background-color:rgba(144, 142, 142, 0.778);
+    /* height: 200px; */
+    background-image: url(catering3copy.jpg);
+    background-size:100%;
+   
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.542);
+}
+.inbox5{
+    /* background-color:grey; */
+    height: 200px;
+    margin-top: 25px;
+
+}
+.p5{
+    color:aliceblue;
+    text-align: center;
+    font-size: 20px;
+    font-family:Bookman Old Style ;
+    
+   
+    margin-top: 20px;
+}
+.line8{
+    background-color: orangered;
+    height: 1px;
+    width: 75%;
+    margin-top: 20px;
+}
+
+.line9{
+    background-color: orangered;
+    height: 1px;
+    width: 50%;
+    margin-top: 20px;
+}
+.line6{
+    background-color: orangered;
+    height: 1px;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.line7{
+    background-color: orangered;
+    height: 1px;
+    max-width: 75%;
+    margin-top: 20px;
+    
+}
+.sec6{
+    background-image: url(sauce2.jpeg);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.inbox6{
+     /* background-color: rgba(11, 11, 11, 0.128); */
+     height: 700px;
+     text-align: center;
+
+}
+.sauce{
+    color:white;
+ 
+    font-family: Engravers MT;
+    font-size: 40px;
+    text-shadow: 0px 0px 10px black;
+    font-weight: bold;
+    margin-top: 100px;
+    display: inline-block;
+}
+.line10{
+    background-color:aliceblue ;
+    height: 2px;
+    max-width: 40%;
+    margin: auto;
+}
+.p6{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    font-family:Engravers MT ;
+    text-shadow: 0px 0px 10px black;
+    
+   
+    margin-top: 20px;
+}
+.shop{
+    background-color:darkgoldenrod;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.sec7{
+    background-image: url(couples.jpeg);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.inbox7{
+     /* background-color: rgba(11, 11, 11, 0.128); */
+     height: 700px;
+     text-align: center;
+
+}
+
+.loyal{
+    color:white;
+ 
+    font-family: Engravers MT;
+    font-size: 40px;
+    text-shadow: 0px 0px 10px black;
+    font-weight: bold;
+    /* margin-top: 50px; */
+   
+}
+.heart{
+    color: aliceblue;
+    font-size: 60px;
+    margin-top: 200px;
+    display: inline-block;
+    
+}
+
+.p7{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    font-family:Engravers MT ;
+    text-shadow: 0px 0px 10px black;
+    
+   
+    margin-top: 20px;
+}
+.out{
+    background-color:darkgoldenrod;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px;
+    margin-top: 40px;
+    display: inline-block;
+}
+.sec8{
+    background-image: url(happy\ family.jpeg);
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.orange{
+    background-color: rgba(184, 135, 11, 0.791);
+}
+.inbox8{
+    /* background-color: rgba(244, 163, 14, 0.749)); */
+    height: 200px;
+    text-align: center;
+
+}
+.john{
+    color:white;
+ 
+    font-family: Engravers MT;
+    font-size: 20px;
+    text-shadow: 0px 0px 10px black;
+    font-weight: bold;
+    /* margin-top: 50px; */
+   
+}
+.p8{
+    color:white;
+    text-align: center;
+    font-size: 10px;
+    font-family:Engravers MT ;
+    text-shadow: 0px 0px 10px black;
+    
+   
+    margin-top: 50px;
+}
+
+.line14{
+    background-color:white;
+    height: 1px;
+    width: 75%;
+    margin-top: 20px;
+}
+
+.line13{
+    background-color:white;
+    height: 1px;
+    width: 50%;
+    margin-top: 20px;
+}
+.line11{
+    background-color: white;
+    height: 1px;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.line12{
+    background-color: white;
+    height: 1px;
+    max-width: 75%;
+    margin-top: 20px;
+    
+}
+.sec9{
+    background-image: url(making2.jpeg);
+    min-height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.inbox9{
+     /* background-color: rgba(11, 11, 11, 0.128); */
+     height: 700px;
+     text-align: center;
+     background-image: url(making2.jpeg);
+     background-repeat: no-repeat;
+
+}
+.begin{
+    color:white;
+ 
+    font-family: Engravers MT;
+    font-size: 40px;
+    text-shadow: 0px 0px 10px black;
+    font-weight: bold;
+    margin-top: 250px;
+    display: inline-block;
+}
+.line15{
+    background-color:aliceblue ;
+    height: 2px;
+    max-width: 40%;
+    margin: auto;
+}
+.p9{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    font-family:Engravers MT ;
+    text-shadow: 0px 0px 10px black;
+    
+   
+    margin-top: 20px;
+}
+.learn{
+    background-color:darkgoldenrod;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 8px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.sec10{
+    
+    min-height: 300px;
+    background-color: rgb(61, 60, 60);
+}
+.inbox10{
+    /* background-color: cadetblue; */
+    height: 300px;
+    
+
+}
+.inbox10a{
+    height: 300px;
+    background-image: url(r1.jpg);
+    /* background-color: aquamarine; */
+    background-size: 300px;
+    background-repeat: no-repeat;
+    margin-top: 50px;
+}
+.lightwhite{
+    background-color: rgba(124, 121, 121, 0.53);
+}
+.p10{
+    color:white;
+    text-align: center;
+    font-size: 15px;
+   text-transform: capitalize;
+    text-shadow: 0px 0px 10px black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.inboxb{
+    /* background-color: aqua; */
+    height: 300px;
+    
+}
+.links{
+    color:white ;
+    margin-left:50px ;
+    text-transform: uppercase;
+    font-size: 30px;
+    text-shadow: 0px 0px 10px black;
+    margin-top: 50px;
+
+}
+.arrow{
+    color: darkgoldenrod;
+    text-align: center;
+    margin-left: 0px;
+
+} 
+.press{
+    color: gray;
+    text-transform: uppercase;
+    text-decoration: none;
+  
+} 
+.rivers{
+    color:white ;
+    
+    text-transform: uppercase;
+    font-size: 30px;
+    text-shadow: 0px 0px 10px black;
+    margin-top: 50px;
+
+}
+.inbox10c{
+    /* background-color: aquamarine; */
+    height: 300px;
+    margin-top: 50px;
+}
+.contact{
+    color: white;
+    font-size: 30px;
+    text-shadow: 0px 0px 10px black;
+    text-transform: uppercase;
+    margin-left: 15px;
+    text-decoration: none;
+}
+.p11{
+    color: white;
+    text-transform: uppercase;
+    margin-left: 15px;
+}
+.us{
+    color: white;
+    background-color:darkgoldenrod ;
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 15px;
+    text-decoration: none;
+}
+.inbox11{
+    /* background-color: blue; */
+    height: 50px;
+
+}
+.sec11{
+    background-color: black;
+    min-height: 50px;
+
+}
+.p12{
+    color: grey;
+    text-align: center;
+}
+.face{
+    color: darkgoldenrod;
+   
+    margin-left: 30px;
+}
+.face1{
+    color: darkgoldenrod;
+}
+.sec0{
+    background-color: black;
+}
+.logo{
+    color: white;
+    text-transform: uppercase;
+}
+.cr{
+    color: darkgoldenrod;
+}
+
+@media(max-width:575px){
+    .inbox10{
+        height: 100px;
+    }
+    .inbox10c{
+        height: 139px;
+    }
+    .inbox4{
+        height: 156px;
+    }
+    .local{
+        margin-top: 27px;
+    }
+    .inbox2{
+        height: 129px;
+    }
+    
+    .sec7{
+        height: 379px;
+    }
+    .heart{
+        margin-top: 51px;
+    }
+    .sec1{
+        min-height: 551px;
+    }
+    .circle{
+        margin-top: 44px;
+    }
+    .view{
+        margin-top: 17px;
+    }
+    .inbox11{
+        text-align: center;
+        height: fit-content;
+    }
+    .BRisky{
+        font-size: 50px;
+    }
+    .catering{
+        font-size: 50px;
+    }
+    .sec4{
+        min-height: 394px;
+    }
+    .sec3{
+        min-height: 507px;
+    }
+    .inbox6{
+        height: 452px;
+    }
+    .inbox7{
+        height: 612px;
+    }
+    .inbox9{
+        height: 569px;
+    }
+    .sec9{
+        min-height: 532px;
+    }
+    
+}
